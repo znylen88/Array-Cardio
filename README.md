@@ -1,2 +1,2 @@
 # Array-Cardio
-## Array Method Practice
+## Array Method Practice: .some(), every(), find(), and findIndex().
